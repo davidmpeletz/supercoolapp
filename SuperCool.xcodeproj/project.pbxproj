@@ -286,6 +286,7 @@
 				D301B6481CC2B22400579152 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
